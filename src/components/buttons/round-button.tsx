@@ -20,7 +20,7 @@ export const RoundButton = styled.button`
     justify-content: center;
 
     &:hover {
-        background-color: rgba(119, 71, 255, 0.6);
+        background-color: rgba(73, 27, 199, 0.6);
     }
 
     @media(min-width: 868px){
