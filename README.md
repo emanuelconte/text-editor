@@ -33,7 +33,7 @@
 
 <h4> Prerequisites</h4>
 
-- Node 12
+- Node 16
 - Git 2
 
 <h4>Install project</h4>
